@@ -1,0 +1,109 @@
+.header {
+  color: white;
+  background-image: linear-gradient(to left, #f83600 0%, #f9d423 100%);
+}
+
+#searchbox {
+  padding-top: 50px;
+  margin-top: 30px !important;
+}
+
+.meetTheStars {
+  font-size: 5rem !important;
+  text-transform: italic !important;
+}
+
+.redChoose {
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+}
+
+.redSearch {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.middleTitle {
+  font-size: 18px;
+  text-transform: uppercase;
+  padding: 20px 50px;
+  color: white;
+  font-weight: bold;
+}
+
+.yellowBack {
+  background-color: #ffe164;
+  color: grey;
+  font-size: 16px;
+  padding-top: 2.2rem;
+}
+
+.oprah-img {
+  margin: auto;
+  display: block;
+  padding-top: 20px;
+  background-image: linear-gradient(to right, #3ab5b0 0%, #3d99be 31%, #56317a 100%);
+}
+
+.after-oprah {
+  margin: 2.5rem auto;
+}
+
+.in3 {
+  color: #0054a0;
+  font-weight: bolder;
+  font-size: 16px;
+}
+
+.prefooter {
+  text-align: center !important;
+  color: white;
+  background: #333333;
+}
+
+.links {
+  margin-top: 1.4rem;
+}
+
+.linksTitle {
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-stretch: 2;
+}
+
+#footer {
+  margin-top: 50px;
+}
+
+#custom-search-input {
+  padding: 3px;
+  border: solid 1px #E4E4E4;
+  border-radius: 6px;
+  background-color: #fff;
+}
+
+#custom-search-input input {
+  border: 0;
+  box-shadow: none;
+}
+
+#custom-search-input button {
+  margin: 2px 0 0 0;
+  background: none;
+  box-shadow: none;
+  border: 0;
+  color: #666666;
+  padding: 0 8px 0 10px;
+  border-left: solid 1px #ccc;
+}
+
+#custom-search-input button:hover {
+  border: 0;
+  box-shadow: none;
+  border-left: solid 1px #ccc;
+}
+
+#custom-search-input .glyphicon-search {
+  font-size: 23px;
+}
